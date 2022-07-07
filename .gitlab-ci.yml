@@ -1,5 +1,3 @@
 testjob_1:
-tags:
--linux
 script:
 -echo "Hello World"
