@@ -8,5 +8,5 @@
 testjob_1:
 tags:
 - Linux
-script:
-- Echo "Hello World"
+  script:
+    - echo "Hello World"
