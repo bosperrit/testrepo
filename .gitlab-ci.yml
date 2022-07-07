@@ -9,4 +9,4 @@ testjob_1:
 tags:
 - Linux
 script:
-  - echo "Hello World"
+- echo "Hello World"
