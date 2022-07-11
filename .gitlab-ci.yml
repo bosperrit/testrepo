@@ -1,3 +1,4 @@
 testjob1:
     script:
     	- echo "Hallo Wereld"
+yes
